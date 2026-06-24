@@ -1,10 +1,5 @@
 # 🏗️ AI-Powered Concrete Strength Analytics Platform
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![XGBoost](https://img.shields.io/badge/XGBoost-MachineLearning-green)
-![SHAP](https://img.shields.io/badge/SHAP-ExplainableAI-orange)
-![Jotform](https://img.shields.io/badge/Jotform-AI%20App%20Builder-purple)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 An AI-powered concrete strength prediction platform that estimates **7-Day** and **28-Day Compressive Strength** using **XGBoost Machine Learning Models** and **SHAP Explainable AI**. The application provides an intuitive interface for engineers, researchers, and students to analyze concrete mix compositions and generate accurate strength predictions.
 
